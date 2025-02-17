@@ -10,3 +10,4 @@ line_login_secret = your_line_login_secret
 my_phone =
 --------------------------------------------------------
 your_google_credentials.json會由google cloud platform提供
+--------------------------------------------------------
